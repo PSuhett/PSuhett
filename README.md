@@ -8,9 +8,9 @@
  [![LLINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-suhett-007b8b247/)
  [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulosuhett@gmail.com)
  
-![Suhett GitHub stats](https://github-readme-stats.vercel.app/api?username=math-vieira&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true)
+![Suhett GitHub stats](https://github-readme-stats.vercel.app/api?username=PSuhett&show_icons=true&theme=radical))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-vieira&layout=compact&langs_count=7&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSuhett&layout=compact)](https://github.com/PSuhett/github-readme-stats)
 
 ### Tecnologias que uso no meu dia a dia!
 
