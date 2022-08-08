@@ -10,8 +10,8 @@
  
 <div>
   <a href="https://github.com/PSuhett">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PSuhett&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSuhett&layout=compact&langs_count=7&theme=solarized-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=psuhett&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psuhett&layout=compact&langs_count=7&theme=solarized-dark"/>
 </div>
 
 ### Tecnologias que uso no meu dia a dia!
